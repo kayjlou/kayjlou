@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-🔭 I’m currently working at Innovative Drive as a Software Developer based in Reno, NV
-🌱 I’m working with Python and learning more electrical engineering lingo along with C programming.
+-🔭 I’m currently working at Innovative Drive as a Software Developer based in Reno, NV
+-🌱 I’m working with Python and learning more electrical engineering lingo along with C programming.
 
 [![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayjlou)](https://github.com/kayjlou/github-readme-stats)
 
