@@ -5,7 +5,9 @@
 
 -🌱 I’m working with Python and learning more electrical engineering lingo along with C programming.
 
-[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayjlou)](https://github.com/kayjlou/github-readme-stats)
+[![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayjlou&count_private=true&show_icons=true&theme=radical)]
+
+
 
 
 <!--
