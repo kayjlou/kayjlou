@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
--🔭 I’m currently working as a Software Developer based in Reno, NV
 
 
 ![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayjlou&count_private=true&show_icons=true&theme=buefy)
